@@ -21,6 +21,7 @@ class Main {
 
         int SecondAnswer = 2;
         int ThirdAnswer = 3;
+        int FourthAnswer = 4;
         String FirstAnswer = "modulus";
         if (FirstAnswer == "addition") {System.out.println(SecondAnswer + ThirdAnswer);}
         else if (FirstAnswer == "substraction") {System.out.println(SecondAnswer - ThirdAnswer);}
